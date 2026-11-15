@@ -1,0 +1,26 @@
+{
+  "_note": "Illustrative and user editable. This is NOT an official list. Check the current FATF, HM Treasury, OFSI and HMRC publications before relying on any jurisdiction classification, and edit this file to reflect your own risk appetite.",
+  "call_for_action": [
+    "Iran",
+    "Democratic People's Republic of Korea",
+    "North Korea",
+    "Myanmar",
+    "Burma"
+  ],
+  "offshore_centres": [
+    "British Virgin Islands",
+    "BVI",
+    "Virgin Islands, British",
+    "Cayman Islands",
+    "Panama",
+    "Seychelles",
+    "Belize",
+    "Marshall Islands",
+    "Anguilla",
+    "Bahamas",
+    "Bermuda",
+    "Jersey",
+    "Guernsey",
+    "Isle of Man"
+  ]
+}
