@@ -1,4 +1,4 @@
-e# Secrets: never commit these
+# Secrets: never commit these
 .streamlit/secrets.toml
 .env
 *.key
